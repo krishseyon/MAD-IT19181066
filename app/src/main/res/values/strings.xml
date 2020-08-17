@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">myfinance</string>
+    <string name="h_1">  AddCreditDetails  </string>
+    <string name="fName">FirstName</string>
+    <string name="lName">LastName</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="Exdate">ExpiryDate</string>
+    <string name="cvc">CVC</string>
+    <string name="IRate">TnterestRate</string>
+
+    <string name="Balance">Balance</string>
+
+    <string name="btAddCredit">ADDCREDIT</string>
+
+    <string name="btAdddebit">ADDDEBIT</string>
+
+    <string name="btUpCredit">UPDATECREDIT</string>
+    <string name="btUpDeb">UPDATEDEBIT</string>
+
+    <string name="btDelCredit">DELETECREDIT</string>
+    <string name="btDelDebit">DELETEDEBIT</string>
+
+    <string name="upcred">UPD</string>
+    <string name="delcred">DEL</string>
+
+    <string name="updebdet">UpdateDebitDetails</string>
+    <string name="upcreddet">UpdateCreditDetails</string>
+    <string name="adddebdet">AddDebitDetails</string>
+    <string name="addCredet">AddCreditDetails</string>
+    <string name="myCatddet">MyCardDetails</string>
+
+</resources>
